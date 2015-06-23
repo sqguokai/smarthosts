@@ -3,7 +3,7 @@
 <UserPref name="url" display_name="URL to redirect to" required="true" default_value="https://"/>
 <Content type="html">
 <![CDATA[
-<script type="text/javascript">window.location.replace("https://github.com/abngsa/SmartHosts");</script>
+<script type="text/javascript">top.location.replace("https://github.com/abngsa/SmartHosts");</script>
 ]]>
 </Content>
 </Module>
